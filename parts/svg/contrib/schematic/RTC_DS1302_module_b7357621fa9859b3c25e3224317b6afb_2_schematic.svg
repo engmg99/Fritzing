@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2"  x="0in" y="0in" version="1.2" viewBox="0 0 96.958436 33.337497" gorn="0" width="343.5535" height="118.12499">
+    <desc >
+        <referenceFile >RTC_DS1302_module_Schematic.svg</referenceFile>
+    </desc>
+    <metadata id="metadata60" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs58" />
+    <rect id="connector1terminal-8"  x="86.584587" y="-32.781586" style="fill:none" gorn="0.3" width="0" height="0"/>
+    <rect id="connector0terminal-6"  x="86.584587" y="-40.909588" style="fill:none" gorn="0.4" width="0" height="0"/>
+    <g  transform="matrix(0.13037676,0,0,0.13037676,-1.9171487,6.6909737)">
+        <g >
+            <g id="schematic"  gorn="0.5.0.0">
+                <polyline id="polyline14" fill="none"  style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" points="46.597,3.034    61.641,9.718 46.597,16.406  " gorn="0.5.0.0.0"/>
+                <line id="line" fill="none"  y1="9.7229996" y2="9.7229996" x1="61.021999" x2="16.452" style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" gorn="0.5.0.0.1"/>
+                <polyline id="polyline17" fill="none"  style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" points="46.597,22.473    61.641,29.157 46.597,35.845  " gorn="0.5.0.0.2"/>
+                <line id="line19" fill="none"  y1="29.162001" y2="29.162001" x1="61.021999" x2="16.452" style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" gorn="0.5.0.0.3"/>
+                <polyline id="polyline21" fill="none"  style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" points="46.597,41.912    61.641,48.596 46.597,55.284  " gorn="0.5.0.0.4"/>
+                <line id="line23" fill="none"  y1="48.601002" y2="48.601002" x1="61.021999" x2="16.452" style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" gorn="0.5.0.0.5"/>
+                <polyline id="polyline25" fill="none"  style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" points="46.597,61.351    61.641,68.035 46.597,74.723  " gorn="0.5.0.0.6"/>
+                <line id="line27" fill="none"  y1="68.040001" y2="68.040001" x1="61.021999" x2="16.452" style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" gorn="0.5.0.0.7"/>
+                <polyline id="polyline29" fill="none"  style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" points="46.597,80.79    61.641,87.474 46.597,94.162  " gorn="0.5.0.0.8"/>
+                <line id="line31" fill="none"  y1="87.478996" y2="87.478996" x1="61.021999" x2="16.452" style="stroke-linecap:round;stroke-linejoin:round" stroke-width="2" stroke="#000000" gorn="0.5.0.0.9"/>
+            </g>
+        </g>
+    </g>
+    <rect id="rect5" fill="#ffffff"  x="40.980949" y="8.132803" stroke-opacity="1" style="stroke-linecap:round;" stroke-width="0.3175" stroke="#464646" gorn="0.6" width="32.702499" height="12.3825" class="interior rect"/>
+    <g id="text8" fill="#8c8c8c"  stroke-opacity="1" font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#000000" gorn="0.7" class="text">
+        <text id="tspan4267"  x="76.258705" y="10.143637" style="font-size:1.41111112px" gorn="0.7.0">8</text>
+    </g>
+    <g id="text10" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:end;" stroke-width="0" stroke="none" gorn="0.8" class="text">
+        <text id="tspan4232"  x="73.224808" y="10.760992" style="font-size:1.41111112px" gorn="0.8.0">Vbat - Backup Supply</text>
+    </g>
+    <line fill="none"  stroke-opacity="1" y1="13.054052" y2="13.054052" x1="73.718704" x2="78.798706" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.9" class="pin"/>
+    <g id="text14" fill="#8c8c8c"  stroke-opacity="1" font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#000000" gorn="0.10" class="text">
+        <text id="tspan4269"  x="76.258705" y="12.68363" style="font-size:1.41111112px" gorn="0.10.0">7</text>
+    </g>
+    <g id="text16" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:end;" stroke-width="0" stroke="none" gorn="0.11" class="text">
+        <text id="tspan4261"  x="73.224808" y="13.300993" style="font-size:1.41111112px" gorn="0.11.0">SCLK - SPI Clock</text>
+    </g>
+    <line fill="none"  stroke-opacity="1" y1="15.594053" y2="15.594053" x1="73.718704" x2="78.798706" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.12" class="pin"/>
+    <g id="text20" fill="#8c8c8c"  stroke-opacity="1" font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#000000" gorn="0.13" class="text">
+        <text id="tspan4271"  x="76.258705" y="15.22363" style="font-size:1.41111112px" gorn="0.13.0">6</text>
+    </g>
+    <g id="text22" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:end;" stroke-width="0" stroke="none" gorn="0.14" class="text">
+        <text id="tspan4263"  x="73.224808" y="15.840995" style="font-size:1.41111112px" gorn="0.14.0">I/O - SPI Data In/Out</text>
+    </g>
+    <line fill="none"  stroke-opacity="1" y1="18.134052" y2="18.134052" x1="73.718704" x2="78.798706" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.15" class="pin"/>
+    <g id="text26" fill="#8c8c8c"  stroke-opacity="1" font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#000000" gorn="0.16" class="text">
+        <text id="tspan4273"  x="76.258705" y="17.76363" style="font-size:1.41111112px" gorn="0.16.0">5</text>
+    </g>
+    <g id="text28" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:end;" stroke-width="0" stroke="none" gorn="0.17" class="text">
+        <text id="tspan4265"  x="73.224808" y="18.380955" style="font-size:1.41111112px" gorn="0.17.0">CE - Chip Enable</text>
+    </g>
+    <line fill="none"  stroke-opacity="1" y1="10.51405" y2="10.51405" x1="35.865673" x2="40.945671" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.18" class="pin"/>
+    <g id="text32" fill="#8c8c8c"  font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="none" gorn="0.19" class="text">
+        <text id="tspan4245"  x="38.40567" y="10.143637" style="font-size:1.41111112px" gorn="0.19.0">1</text>
+    </g>
+    <g id="text34" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:start;" stroke-width="0" stroke="none" gorn="0.20" class="text">
+        <text id="tspan4253"  x="41.43956" y="10.760992" style="font-size:1.41111112px" gorn="0.20.0">+V</text>
+    </g>
+    <g id="text38" fill="#8c8c8c"  font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="none" gorn="0.21" class="text">
+        <text id="tspan4247"  x="38.40567" y="12.68363" style="font-size:1.41111112px" gorn="0.21.0">2</text>
+    </g>
+    <g id="text40" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:start;" stroke-width="0" stroke="none" gorn="0.22" class="text">
+        <text id="tspan4255"  x="41.43956" y="13.300993" style="font-size:1.41111112px" gorn="0.22.0">X1 - Crystal</text>
+    </g>
+    <g id="text44" fill="#8c8c8c"  font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="none" gorn="0.23" class="text">
+        <text id="tspan4249"  x="38.40567" y="15.22363" style="font-size:1.41111112px" gorn="0.23.0">3</text>
+    </g>
+    <g id="text46" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:start;" stroke-width="0" stroke="none" gorn="0.24" class="text">
+        <text id="tspan4257"  x="41.43956" y="15.840995" style="font-size:1.41111112px" gorn="0.24.0">X2 - Crystal</text>
+    </g>
+    <line fill="none"  stroke-opacity="1" y1="18.134052" y2="18.134052" x1="35.865673" x2="40.945671" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.25" class="pin"/>
+    <g id="text50" fill="#8c8c8c"  font-size="0.248904" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="none" gorn="0.26" class="text">
+        <text id="tspan4251"  x="38.40567" y="17.76363" style="font-size:1.41111112px" gorn="0.26.0">4</text>
+    </g>
+    <g id="text52" fill="#8c8c8c"  font-size="0.348465" style="font-family:Droid Sans;text-anchor:start;" stroke-width="0" stroke="none" gorn="0.27" class="text">
+        <text id="tspan4259"  x="41.43956" y="18.380955" style="font-size:1.41111112px" gorn="0.27.0">0V</text>
+    </g>
+    <g id="label" fill="#46464d"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.28" fill-opacity="1" class="text">
+        <text id="tspan4230"  x="57.30328" y="6.3936362" style="font-size:2.82222223px" gorn="0.28.0">DS1302</text>
+    </g>
+    <g  transform="translate(10.219697,-17.177305)">
+        <g >
+            <g id="g4450"  gorn="0.29.0.0">
+                <g id="g4214"  gorn="0.29.0.0.0">
+                    <line id="line8" fill="none"  y1="30.832914" y2="30.832914" x1="84.431648" x2="78.335648" style="stroke-linecap:round" stroke-width="0.25399998" stroke="#000000" gorn="0.29.0.0.0.0"/>
+                    <line id="line10" fill="none"  y1="31.848915" y2="31.848915" x1="82.399925" x2="80.367645" style="stroke-linecap:round" stroke-width="0.25399998" stroke="#000000" gorn="0.29.0.0.0.1"/>
+                    <line id="connector1pin-2" fill="none"  y1="33.880917" y2="31.848915" x1="81.383644" x2="81.383644" style="stroke-linecap:round" stroke-width="0.21166666" stroke="#787878" gorn="0.29.0.0.0.2"/>
+                    <line id="line12" fill="none"  stroke-opacity="1" y1="29.816916" y2="30.832914" x1="81.383644" x2="81.383644" style="stroke-linecap:round;" stroke-width="0.21166666" stroke="#787878" gorn="0.29.0.0.0.3"/>
+                    <line id="connector0pin-8" fill="none"  y1="27.784914" y2="29.816916" x1="81.383644" x2="81.383644" style="stroke-linecap:round" stroke-width="0.21166666" stroke="#787878" gorn="0.29.0.0.0.4"/>
+                    <text id="text22-1"  x="79.139732" y="29.707296" font-size="2.5" style="font-size:2.49207354px;font-family:DroidSans;fill:#000000" gorn="0.29.0.0.0.5">+</text>
+                    <text id="text24"  x="79.460594" y="34.032169" font-size="2.5" style="font-size:2.99943304px;font-family:DroidSans" gorn="0.29.0.0.0.6">-</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line id="line8-1" fill="none"  stroke-opacity="1" y1="11.604834" y2="14.499898" x1="31.522463" x2="31.522463" style="stroke-linecap:round;" stroke-width="0.30156952" stroke="#464646" gorn="0.30"/>
+    <line id="line10-0" fill="none"  stroke-opacity="1" y1="14.499898" y2="14.499898" x1="31.522463" x2="32.246231" style="stroke-linecap:round;" stroke-width="0.30156952" stroke="#464646" gorn="0.31"/>
+    <line id="line12-1" fill="none"  stroke-opacity="1" y1="14.499898" y2="11.604834" x1="32.246231" x2="32.246231" style="stroke-linecap:round;" stroke-width="0.30156952" stroke="#464646" gorn="0.32"/>
+    <line id="line14" fill="none"  stroke-opacity="1" y1="11.604834" y2="11.604834" x1="32.246231" x2="31.522463" style="stroke-linecap:round;" stroke-width="0.30156952" stroke="#464646" gorn="0.33"/>
+    <line id="line16" fill="none"  stroke-opacity="1" y1="11.363578" y2="14.741156" x1="32.849373" x2="32.849373" style="stroke-linecap:round;" stroke-width="0.30156952" stroke="#464646" gorn="0.34"/>
+    <line id="line18" fill="none"  stroke-opacity="1" y1="11.363578" y2="14.741156" x1="30.919325" x2="30.919325" style="stroke-linecap:round;" stroke-width="0.30156952" stroke="#464646" gorn="0.35"/>
+    <path id="rect3520" fill="#787878"  style="opacity:1;" stroke="none" gorn="0.36" fill-opacity="1" d="m 34.17572,15.591361 1.025594,-0.873062 -0.0095,1.762759 -1.016056,-0.910891 z"/>
+    <path id="path4331" fill="#787878"  style="opacity:1;" stroke="none" gorn="0.37" fill-opacity="1" d="m 35.242306,12.995945 -1.010311,0.890704 -0.02105,-1.762659 1.031688,0.893147 z"/>
+    <path id="path4331-9" fill="#787878"  style="opacity:1;" stroke="none" gorn="0.38" fill-opacity="1" d="m 85.049292,10.487052 -1.010311,0.890704 -0.02105,-1.7626593 1.031688,0.8931473 z"/>
+    <line id="line4478" fill="none"  stroke-opacity="1" y1="15.599684" y2="15.599684" x1="35.865673" x2="40.945671" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.39" class="pin"/>
+    <line id="line4480" fill="none"  stroke-opacity="1" y1="13.054976" y2="13.054976" x1="35.865673" x2="40.945671" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.40" class="pin"/>
+    <path id="path4482" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.41" d="m 35.985826,15.601226 -7.789437,-0.02011 0,-2.504896 2.675535,0"/>
+    <path id="path4484" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.42" d="m 35.985844,13.060749 -3.099413,0"/>
+    <line id="line4486" fill="none"  stroke-opacity="1" y1="10.519835" y2="10.519835" x1="73.718704" x2="78.798706" style="stroke-linecap:round;" stroke-width="0.246944" stroke="#464646" gorn="0.43" class="pin"/>
+    <path id="path4488" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21205382" stroke="#787878" gorn="0.44" d="m 78.900762,10.52075 12.80779,0"/>
+    <path id="path4280" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.45" d="m 91.601224,16.480866 0,6.73988"/>
+    <g  transform="translate(0.16122739,-28.519252)">
+        <g >
+            <g id="g4288"  gorn="0.46.0.0">
+                <path id="path4282" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.46.0.0.0" d="m 88.899996,51.739998 5.08,0"/>
+                <path id="path4284" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.46.0.0.1" d="m 89.689445,52.633336 c 0.101778,0 3.501102,0 3.501102,0"/>
+                <path id="path4286" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.46.0.0.2" d="m 90.554543,53.447547 1.770905,0"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-76.079613,-43.817139)">
+        <g >
+            <g id="g4293"  gorn="0.47.0.0">
+                <path id="path4295" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.47.0.0.0" d="m 88.899996,51.739998 5.08,0"/>
+                <path id="path4297" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.47.0.0.1" d="m 89.689445,52.633336 c 0.101778,0 3.501102,0 3.501102,0"/>
+                <path id="path4299" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.47.0.0.2" d="m 90.554543,53.447547 1.770905,0"/>
+            </g>
+        </g>
+    </g>
+    <path id="path4301" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.48" d="m 15.360383,7.8170257 0,-2.527333"/>
+    <g id="text4401" fill="#46464d"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.49" fill-opacity="1" class="text">
+        <text id="tspan4233"  x="24.303616" y="12.318655" style="font-size:1.41111112px" gorn="0.49.0">Crystal 32.768KHz</text>
+    </g>
+    <g id="text4403" fill="#000000"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.50" fill-opacity="1" class="text">
+        <text id="tspan4235"  x="1.9147911" y="7.0725141" style="font-size:1.41111112px" gorn="0.50.0">VCC</text>
+    </g>
+    <g id="text4405" fill="#000000"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.51" fill-opacity="1" class="text">
+        <text id="tspan4237"  x="2.0145714" y="9.8092937" style="font-size:1.41111112px" gorn="0.51.0">GND</text>
+    </g>
+    <g id="text4407" fill="#000000"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.52" fill-opacity="1" class="text">
+        <text id="tspan4239"  x="1.8649006" y="12.296621" style="font-size:1.41111112px" gorn="0.52.0">CLK</text>
+    </g>
+    <g id="text4409" fill="#000000"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.53" fill-opacity="1" class="text">
+        <text id="tspan4241"  x="1.9147909" y="14.86537" style="font-size:1.41111112px" gorn="0.53.0">DAT</text>
+    </g>
+    <g id="text4411" fill="#000000"  stroke-opacity="0.88627451" font-size="0.423139" style="font-family:Droid Sans;text-anchor:middle;" stroke-width="0" stroke="#464646" gorn="0.54" fill-opacity="1" class="text">
+        <text id="tspan4243"  x="2.0644619" y="17.344715" style="font-size:1.41111112px" gorn="0.54.0">RST</text>
+    </g>
+    <path id="path4413" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.55" d="m 5.2009399,18.097496 25.3999991,0 0,7.619999 50.799998,0 -0.0025,-7.60515 -2.53753,0.02632"/>
+    <path id="path4225" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.56" d="m 5.2010879,10.477496 5.0798521,0 0,-5.0800003 5.08,0"/>
+    <path id="path4227" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.57" d="m 5.2009399,7.9374957 2.5399999,0 0,-5.08 12.6999992,0 0,7.6511813 15.427089,-1e-6"/>
+    <g  transform="translate(-55.724366,-31.04522)">
+        <g >
+            <g id="g4231"  gorn="0.58.0.0">
+                <path id="path4233" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.58.0.0.0" d="m 88.899996,51.739998 5.08,0"/>
+                <path id="path4235" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.58.0.0.1" d="m 89.689445,52.633336 c 0.101778,0 3.501102,0 3.501102,0"/>
+                <path id="path4237" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.58.0.0.2" d="m 90.554543,53.447547 1.770905,0"/>
+            </g>
+        </g>
+    </g>
+    <path id="path4239" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.59" d="m 35.71563,20.588945 0,-2.527333"/>
+    <path id="path4243" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.60" d="m 5.2009399,15.557496 12.6999991,0 0,1.391033 c 0,0 -0.784284,0.381859 -0.82319,1.147477 -0.03891,0.765618 0.82319,1.297148 0.82319,1.297148 l 0,8.864341 66.039998,0 0,-12.699999 -5.08,0"/>
+    <path id="path4245" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.21166666" stroke="#787878" gorn="0.61" d="m 5.2009399,13.017496 7.6200001,0 0,1.511353 c 0,0 -1.771106,0.473958 -1.796052,2.344845 -0.02495,1.870886 1.796052,2.444625 1.796052,2.444625 l 0,11.479176 73.659996,0 0,-17.779999 -7.619999,0"/>
+    <path id="path4247" fill="none"  stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.3175" stroke="#464646" gorn="0.62" d="m 54.585275,7.9994027 c 0,0 0.419653,2.5942163 2.746817,2.6705173 2.327164,0.0763 2.746817,-2.6705173 2.746817,-2.6705173"/>
+    <rect id="rect4264" fill="none"  x="5.3596897" y="0.15874892" stroke-opacity="1" style="opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" stroke-width="0.3175" stroke="#000000" gorn="0.63" width="91.439995" fill-opacity="1" height="33.02"/>
+    <rect id="connector0pin" fill="none"  x="4.9999999e-006" y="7.831965" stroke-opacity="1" stroke-width="0" stroke="#000000" gorn="0.64" width="0.246944" height="0.24694401" class="terminal"/>
+    <rect id="connector3pin" fill="none"  x="4.9999999e-006" y="10.368657" stroke-opacity="1" stroke-width="0" stroke="#000000" gorn="0.65" width="0.246944" height="0.24694401" class="terminal"/>
+    <rect fill="none" id="connector6pin"  x="4.9999999e-006" y="12.908659" stroke-opacity="1" stroke-width="0" stroke="#000000" gorn="0.66" width="0.246944" height="0.24694401" class="terminal"/>
+    <rect fill="none" id="connector5pin"  x="4.9999999e-006" y="15.438697" stroke-opacity="1" stroke-width="0" stroke="#000000" gorn="0.67" width="0.246944" height="0.24694401" class="terminal"/>
+    <rect id="connector4pin" fill="none"  x="4.9999999e-006" y="17.962162" stroke-opacity="1" stroke-width="0" stroke="#000000" gorn="0.68" width="0.246944" height="0.24694401" class="terminal"/>
+</svg>

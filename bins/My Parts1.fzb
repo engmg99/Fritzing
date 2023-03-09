@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="CLab__49dc4ffcea552b150412c1ad4e730aa6_1" modelIndex="5768" path="C:/Users/Mishu/Documents/Fritzing/parts/contrib/CLab__49dc4ffcea552b150412c1ad4e730aa6_1.fzp">
+            <property name="part number" value="5461BS - 5462BS"/>
+            <views/>
+        </instance>
+    </instances>
+</module>

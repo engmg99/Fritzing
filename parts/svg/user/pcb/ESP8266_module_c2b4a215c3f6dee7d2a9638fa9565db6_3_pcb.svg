@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="50.31496" version="1.1" gorn="0"  height="61.653542" viewBox="0 0 50.314961 61.65354" id="svg3479">
+    <desc  id="desc3">
+        <referenceFile  id="referenceFile5">ESP-07-PCB.svg</referenceFile>
+    </desc>
+    <defs  id="defs3481">
+        <radialGradient fx="7.9878106" fy="13.828221" cx="7.9878106"  cy="13.828221" gradientTransform="matrix(-2.9855543,-3.9922221,4.0072559,-3.9330529,-6.4076864,122.41794)" href="#linearGradient4268" id="radialGradient4276" r="5.2894335" gradientUnits="userSpaceOnUse"/>
+        <linearGradient  id="linearGradient4268">
+            <stop offset="0"  style="stop-color:#b4b4b4;stop-opacity:1;" id="stop4270"/>
+            <stop offset="1"  style="stop-color:#b4b4b4;stop-opacity:0;" id="stop4272"/>
+        </linearGradient>
+    </defs>
+    <metadata  id="metadata3484">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g gorn="0.3"  id="silkscreen">
+        <rect width="28.478842" x="10.91806" y="13.398373" gorn="0.3.0"  height="45.486713" style="fill:url(#radialGradient4276);fill-opacity:1;stroke:#898989;stroke-width:0.57627732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none" id="shield"/>
+        <line class="other" gorn="0.3.1"  style="opacity:0.9;stroke:#f0f0f0;stroke-width:0.59542197;stroke-linecap:round" id="line23" y1="10.335023" y2="10.335023" x1="7.3871694" x2="42.927795"/>
+        <rect width="42.720459" x="3.7972507" y="0.25394085" gorn="0.3.2"  rx="3.3866706" height="61.145657" ry="0.265201" style="opacity:0.9;fill:none;stroke:#000000;stroke-width:0.5078873;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect3748"/>
+    </g>
+    <g gorn="0.4"  id="copper1">
+        <g gorn="0.4.0"  id="pads1">
+            <path gorn="0.4.0.0"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector2pin" d="m 0.0150595,59.881888 7.0866143,0 0,-3.543307 -7.0866143,0 z"/>
+            <path gorn="0.4.0.1"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector4pin" d="m 0,52.795273 7.0866144,0 0,-3.543307 -7.0866144,0 z"/>
+            <path gorn="0.4.0.2"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector12pin" d="m 0,45.708659 7.0866145,0 0,-3.543307 -7.0866145,0 z"/>
+            <path gorn="0.4.0.3"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector10pin" d="m 0,38.622045 7.0866145,0 0,-3.543307 -7.0866145,0 z"/>
+            <path gorn="0.4.0.4"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector9pin" d="m 0,31.53543 7.0866145,0 0,-3.543307 -7.0866145,0 z"/>
+            <path gorn="0.4.0.5"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector11pin" d="m 0,24.448816 7.0866145,0 0,-3.543307 -7.0866145,0 z"/>
+            <path gorn="0.4.0.6"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector1pin" d="m 0,17.362202 7.0866145,0 0,-3.543307 -7.0866145,0 z"/>
+        </g>
+        <g gorn="0.4.1"  id="pads2">
+            <path gorn="0.4.1.0"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector6pin" d="m 43.243407,59.881888 7.086614,0 0,-3.543307 -7.086614,0 z"/>
+            <path gorn="0.4.1.1"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector13pin" d="m 43.228347,52.795273 7.086615,0 0,-3.543307 -7.086615,0 z"/>
+            <path gorn="0.4.1.2"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector7pin" d="m 43.228347,45.708659 7.086615,0 0,-3.543307 -7.086615,0 z"/>
+            <path gorn="0.4.1.3"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector0pin" d="m 43.228347,38.622045 7.086615,0 0,-3.543307 -7.086615,0 z"/>
+            <path gorn="0.4.1.4"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector3pin" d="m 43.228347,31.53543 7.086615,0 0,-3.543307 -7.086615,0 z"/>
+            <path gorn="0.4.1.5"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector5pin" d="m 43.228347,24.448816 7.086615,0 0,-3.543307 -7.086615,0 z"/>
+            <path gorn="0.4.1.6"  style="fill:#f7bd13;fill-opacity:1;stroke:none" id="connector8pin" d="m 43.228347,17.362202 7.086615,0 0,-3.543307 -7.086615,0 z"/>
+        </g>
+    </g>
+</svg>

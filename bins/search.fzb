@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Search.png" search="220 resistor">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Passives-RESISTOR-0402-ResistorModuleID" modelIndex="85441309" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/SMD_resistor_0402.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-RESISTOR-2010-ResistorModuleID" modelIndex="85441311" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/sparkfun-passives-resistor-2010smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-RESISTOR-2512-ResistorModuleID" modelIndex="85441313" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/sparkfun-passives-resistor-2512smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="lijaeag5654yx6narfd346gnn-ResistorModuleID" modelIndex="85441315" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/SMD_resistor_1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="lijae56546nar346gnn-ResistorModuleID" modelIndex="85441317" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/SMD_resistor_0805.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5BandResistorModuleID" modelIndex="85441319" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/resistor_5band.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-V_REG_317-SINK" modelIndex="85441321" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/sparkfun-poweric-v_reg_317-sink.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ResistorModuleID" modelIndex="85441323" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/resistor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="lijaenargnn-ResistorModuleID" modelIndex="85441324" path="D:/fritzing.0.9.4.64.pc/fritzing-parts/core/SMD_resistor_0603.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>

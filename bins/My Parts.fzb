@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="RTC_DS1302_module_00eb4e44c65873a5a891ca02ccc3dd96_13" modelIndex="85436055" path="C:/Users/Mishu/Documents/Fritzing/parts/contrib/RTC_DS1302_module_00eb4e44c65873a5a891ca02ccc3dd96_13.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="90" width="91" viewBox="0 0 91 90" id="svg3589"  gorn="0" version="1.1">
+    <desc >
+        <referenceFile >ESP8266-02_pcb.svg</referenceFile>
+    </desc>
+    <metadata id="metadata3595" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs3593" >
+        <linearGradient id="linearGradient9812"  paint="gradient">
+            <stop style="stop-color:#0013fa;stop-opacity:1;" id="stop9814"  offset="0"/>
+            <stop style="stop-color:#0013fa;stop-opacity:0;" id="stop9816"  offset="1"/>
+        </linearGradient>
+        <pattern patternTransform="translate(32.424102,18.523918)" patternUnits="userSpaceOnUse" height="57.307012" width="32.825061" id="pattern8118" >
+            <g transform="matrix(3.5538368,0,0,3.5431671,-26.031179,137.01164)" >
+                <g >
+                    <g id="copper1"  gorn="0.2.1.0.0.0">
+                        <g id="g4155"  gorn="0.2.1.0.0.0.0">
+                            <g transform="translate(0.02427405,0.1128936)" >
+                                <g >
+                                    <g id="g4148"  gorn="0.2.1.0.0.0.0.0.0.0">
+                                        <rect width="1.4478" height="1.4478" x="14.873349" y="-24.2719" id="rect3960"  stroke-width="0.43180001" gorn="0.2.1.0.0.0.0.0.0.0.0" stroke="#f7bd13" fill="none"/>
+                                        <circle id="connector0pad"  gorn="0.2.1.0.0.0.0.0.0.0.1" stroke-width="0.43180001" cx="15.597248" cy="-23.548" connectorname="1" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                        <rect height="1.4478" width="1.4478" x="14.873349" y="-24.2719" id="rect3971"  stroke-width="0.43180001" gorn="0.2.1.0.0.0.0.0.0.0.2" stroke="#f7bd13" fill="none"/>
+                                        <circle id="connector6pin-6"  gorn="0.2.1.0.0.0.0.0.0.0.3" stroke-width="0.43180001" cx="15.597248" cy="-23.548" connectorname="1" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-0.05620712,0.11289378)" >
+                                <g >
+                                    <g id="g4142"  gorn="0.2.1.0.0.0.0.1.0.0">
+                                        <g id="g4130"  gorn="0.2.1.0.0.0.0.1.0.0.0">
+                                            <circle id="connector1pad"  gorn="0.2.1.0.0.0.0.1.0.0.0.0" stroke-width="0.43180001" cx="13.196324" cy="-23.548" connectorname="2" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                            <circle id="connector7pin"  gorn="0.2.1.0.0.0.0.1.0.0.0.1" stroke-width="0.43180001" cx="13.136246" cy="-23.548" connectorname="2" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(0.11261754,0.11289378)" >
+                                <g >
+                                    <g id="g4134"  gorn="0.2.1.0.0.0.0.2.0.0">
+                                        <circle id="connector3pad"  gorn="0.2.1.0.0.0.0.2.0.0.0" stroke-width="0.43180001" cx="10.570224" cy="-23.548" connectorname="4" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                        <circle id="connector5pin"  gorn="0.2.1.0.0.0.0.2.0.0.1" stroke-width="0.43180001" cx="10.570224" cy="-23.548" connectorname="4" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-0.05620712,0.11289378)" >
+                                <g >
+                                    <g id="g4138"  gorn="0.2.1.0.0.0.0.3.0.0">
+                                        <circle id="connector5pad"  gorn="0.2.1.0.0.0.0.3.0.0.0" stroke-width="0.43180001" cx="8.320817" cy="-23.548" connectorname="6" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                        <circle id="connector3pin"  gorn="0.2.1.0.0.0.0.3.0.0.1" stroke-width="0.43180001" cx="8.320817" cy="-23.548" connectorname="6" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(0.02765101,0)" >
+                            <g >
+                                <g id="g4172"  gorn="0.2.1.0.0.0.1.0.0">
+                                    <circle id="connector6pad"  gorn="0.2.1.0.0.0.1.0.0.0" stroke-width="0.43180001" cx="15.593872" cy="-37.728813" connectorname="7" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                    <circle id="connector7pad"  gorn="0.2.1.0.0.0.1.0.0.1" stroke-width="0.43180001" cx="10.645564" cy="-37.728813" connectorname="8" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                    <g transform="translate(0,3.9935112e-6)" >
+                                        <g >
+                                            <g id="g4100"  gorn="0.2.1.0.0.0.1.0.0.2.0.0">
+                                                <circle id="connector2pad"  gorn="0.2.1.0.0.0.1.0.0.2.0.0.0" stroke-width="0.43180001" cx="8.2561684" cy="-37.728817" connectorname="3" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                                <circle id="connector4pin"  gorn="0.2.1.0.0.0.1.0.0.2.0.0.1" stroke-width="0.43180001" cx="8.2561684" cy="-37.728817" connectorname="3" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g transform="translate(0.14068482,0.02822512)" >
+                                        <g >
+                                            <g id="g4104"  gorn="0.2.1.0.0.0.1.0.0.3.0.0">
+                                                <circle id="connector4pad"  gorn="0.2.1.0.0.0.1.0.0.3.0.0.0" stroke-width="0.43180001" cx="13.002596" cy="-37.757683" connectorname="5" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                                <circle id="connector2pin"  gorn="0.2.1.0.0.0.1.0.0.3.0.0.1" stroke-width="0.43180001" cx="13.030726" cy="-37.757038" connectorname="5" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <rect width="1.4478" height="1.4478" x="14.869972" y="-38.452713" id="rect3979"  stroke-width="0.43180001" gorn="0.2.1.0.0.0.1.0.0.4" stroke="#f7bd13" fill="none"/>
+                                    <circle id="connector0pin"  gorn="0.2.1.0.0.0.1.0.0.5" stroke-width="0.43180001" cx="15.593872" cy="-37.728813" connectorname="7" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                    <circle id="connector1pin"  gorn="0.2.1.0.0.0.1.0.0.6" stroke-width="0.43180001" cx="10.701976" cy="-37.728813" connectorname="8" r="0.72390002" stroke="#f7bd13" fill="none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </pattern>
+    </defs>
+    <rect style="stroke-miterlimit:4;stroke-dasharray:none" height="57.403126" width="57.403126" x="24.904629" y="17.62789" id="connector6pin"  stroke-width="0.753" stroke-opacity="0.06624606" gorn="0.3" stroke="#0013fa" fill="url(#pattern9835)"/>
+    <rect style="stroke-linejoin:bevel;" height="57.307011" width="32.825062" x="25.690559" y="18.150497" id="rect8149"  stroke-opacity="0.23343853" gorn="0.4" stroke="none" fill="url(#pattern9735)"/>
+</svg>
